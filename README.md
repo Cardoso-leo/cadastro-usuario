@@ -1,4 +1,5 @@
 Sistema de Cadastro de Usuários em PHP
+
 Este é um projeto simples de cadastro de usuários desenvolvido em PHP, que permite aos usuários se registrarem no sistema fornecendo um nome, um endereço de e-mail e uma senha.
 
 Funcionalidades
